@@ -63,6 +63,7 @@ public class LoginTestClass3 extends BaseClass
 	login.enterPassword(read.fetchDataFromExcel(2, 1));
 	login.clickOnLoginButton();
 	System.out.println("login Successfully");
+	System.out.println("login");
 	}
 	
 	
